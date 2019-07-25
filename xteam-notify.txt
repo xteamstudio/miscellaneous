@@ -1,4 +1,4 @@
-goToWorkTitle:亲 拿起您的手机 打下早上的卡
-goToWorkText:一个月只能忘刷一次唷
-getOffWorkTitle:お疲れ様
-getOffWorkText:拿起你的手機 打下班卡 如果上班卡還是那格還亮的 forget about it
+goToWorkTitle:超夯XTEAM STUDIO打卡景點
+goToWorkText:上班來這打卡就對了！
+getOffWorkTitle:打卡抽iPhone
+getOffWorkText:PO文打卡分享至臉書，就有機會抽iPhone唷ヽ(●´∀`●)ﾉ
