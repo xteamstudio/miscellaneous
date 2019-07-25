@@ -1,4 +1,4 @@
-我是一
-我是二
-我是三
-我是四
+goToWork:title:亲 拿起您的手机 打下早上的卡
+goToWork:text:一个月只能忘刷一次唷
+getOffWork:title:お疲れ様
+getOffWork:text:拿起你的手機 打下班卡 如果上班卡還是那格還亮的 forget about it
