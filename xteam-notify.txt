@@ -1,4 +1,4 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
 goToWorkText:上班來這打卡就對了！
 getOffWorkTitle:打卡抽腦闆那台羅技賽車組
-getOffWorkText:PO文打卡分享至IG，就有機會抽中大獎唷ヽ(●´∀`●)ﾉ
+getOffWorkText:PO文打卡分享至IG，就有機會抽中大獎唷Σ>―(〃°ω°〃)♡→
