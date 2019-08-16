@@ -1,4 +1,4 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
 goToWorkText:上班來這打卡就對了Σ>―(〃°ω°〃)♡→
-getOffWorkTitle:阿色都打卡了 那你呢？
-getOffWorkText:不打卡打你屁股
+getOffWorkTitle:打完卡去練個羽球吧！
+getOffWorkText:0828第一屆羽球大賽 拍死你！
