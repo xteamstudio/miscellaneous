@@ -1,4 +1,4 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
 goToWorkText:上班來這打卡就對了Σ>―(〃°ω°〃)♡→
-getOffWorkTitle:打完卡去練個羽球吧！
-getOffWorkText:0828第一屆羽球大賽 打完羽球吃大餐～
+getOffWorkTitle:打卡下班 夜深了 少吃澱粉 補充蛋白質
+getOffWorkText:0914 TRX 海豹部隊體能訓練計畫啟動
