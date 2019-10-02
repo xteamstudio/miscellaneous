@@ -1,4 +1,4 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
 goToWorkText:上班來這打卡就對了Σ>―(〃°ω°〃)♡→
-getOffWorkTitle:肉控注意打卡下班 減肥無罪吃肉有理
-getOffWorkText:0927 月聚餐吃肉肉長肉肉 為冬天儲存能量
+getOffWorkTitle:記得打卡
+getOffWorkText:就這樣吧 掰
