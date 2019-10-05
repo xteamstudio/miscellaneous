@@ -1,4 +1,4 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
 goToWorkText:上班來這打卡就對了Σ>―(〃°ω°〃)♡→
 getOffWorkTitle:記得打卡
-getOffWorkText:你是忘記了，還是害怕想起來..........你又忘記打卡了
+getOffWorkText:你是忘記了，還是害怕想起來..........你又沒打卡了
