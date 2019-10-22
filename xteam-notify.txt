@@ -11,7 +11,7 @@ goToWorkText:★你不一定要很厲害，才能開始；你要開始，才能�
 goToWorkText:★要成功，先發瘋，頭腦簡單向前衝，打卡只要一分鐘，打完人生就成功☆
 goToWorkText:★積極向上的心態，是成功者的最基本要素。卡還沒打前，你在跟我講什麼☆
 goToWorkText:★生活總會給你另一個機會，這個機會叫今天。今天的開始，老梗了就是要打卡☆
-getOffWorkTitle:打卡拼經濟，大錢等著您 https://www.youtube.com/watch?v=aUlxtFcDgrg
+getOffWorkTitle:打卡拼經濟，大錢等著您 https://s.zimedia.com.tw/s/H3LDY4-1
 getOffWorkText:★下班出得去，打卡進得來，荷包發大財。吉咧拜歐甲崩☆
 getOffWorkText:★立足台灣、胸懷大陸、放眼世界、征服宇宙、打卡救人類☆
 getOffWorkText:★禿子跟著月亮走，打卡回家不迷路☆
