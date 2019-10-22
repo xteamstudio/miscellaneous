@@ -1,4 +1,26 @@
 goToWorkTitle:超夯XTEAM STUDIO打卡景點
-goToWorkText:上班來這打卡就對了Σ>―(〃°ω°〃)♡→
-getOffWorkTitle:打卡拼經濟
-getOffWorkText:下班出得去，打卡進得來，荷包發大財。吉咧拜歐甲崩
+goToWorkText:★每天只看目標，別老想障礙，打卡完目標就更近一步☆
+goToWorkText:★寧願辛苦一陣子，不要辛苦一輩子。上班來這打卡就對了Σ>―(〃°ω°〃)♡→☆
+goToWorkText:★嘗試過。失敗過。 沒關係。再試一次。又失敗。比失敗進步一些。然後卡就打完了!☆
+goToWorkText:★打完上班卡擁有一碗滷肉飯與一瓶礦泉水的信心☆
+goToWorkText:★台灣人在睡覺時，大多數的美國人都在工作，我們打完卡，很多美國人就睡著了☆
+goToWorkText:★只要每天省下買一杯奶茶的錢，十天後就能買十杯奶茶。每天打卡，就可以省下一張假單☆
+goToWorkText:★台灣競爭力低落，在美國就連小學生都會說流利的英語。我們只好立馬打卡拚經濟☆
+goToWorkText:★不吃飽哪有力氣減肥，不打卡上班哪有力氣下班☆
+goToWorkText:★你不一定要很厲害，才能開始；你要開始，才能很厲害。打完卡就開始了☆
+goToWorkText:★要成功，先發瘋，頭腦簡單向前衝，打卡只要一分鐘，打完人生就成功☆
+goToWorkText:★積極向上的心態，是成功者的最基本要素。卡還沒打前，你在跟我講什麼☆
+goToWorkText:★生活總會給你另一個機會，這個機會叫今天。今天的開始，老梗了就是要打卡☆
+getOffWorkTitle:打卡拼經濟，大錢等著您
+getOffWorkText:★下班出得去，打卡進得來，荷包發大財。吉咧拜歐甲崩☆
+getOffWorkText:★立足台灣、胸懷大陸、放眼世界、征服宇宙、打卡救人類☆
+getOffWorkText:★禿子跟著月亮走，打卡回家不迷路☆
+getOffWorkText:★打卡的不怕別人拔毛，放馬過來☆
+getOffWorkText:★快打完卡直奔愛情摩天輪上去做愛做的事☆
+getOffWorkText:★又老又窮，各行各業蕭條的不得了，打完卡我們馬上去救經濟☆
+getOffWorkText:★人生就像騎腳踏車，想保持平衡就得往前走，想出的了公司就得先打卡☆
+getOffWorkText:★不求與人相比，但求超越自己，今天是否比昨天準時打卡☆
+getOffWorkText:★這個世界不是因為你能做什麼，而是你該做什麼。你該打卡了☆
+getOffWorkText:★在哪裡跌倒，就在哪裡躺下來，躺下前先打個卡☆
+getOffWorkText:★別害怕別人怎麼看你，因為沒有人在看你，鼓起勇氣打完卡，還是沒有人再看你☆
+getOffWorkText:★好想賣掉房子去環遊世界，但房東不准，好想馬上回家，但打卡機不准☆
