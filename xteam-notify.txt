@@ -12,15 +12,4 @@ goToWorkText:★要成功，先發瘋，頭腦簡單向前衝，打卡只要一�
 goToWorkText:★積極向上的心態，是成功者的最基本要素。卡還沒打前，你在跟我講什麼☆
 goToWorkText:★生活總會給你另一個機會，這個機會叫今天。今天的開始，老梗了就是要打卡☆
 getOffWorkTitle:打卡拼經濟，大錢等著您
-getOffWorkText:★下班出得去，打卡進得來，荷包發大財。吉咧拜歐甲崩☆
-getOffWorkText:★立足台灣、胸懷大陸、放眼世界、征服宇宙、打卡救人類☆
-getOffWorkText:★禿子跟著月亮走，打卡回家不迷路☆
-getOffWorkText:★打卡的不怕別人拔毛，放馬過來☆
-getOffWorkText:★快打完卡直奔愛情摩天輪上去做愛做的事☆
-getOffWorkText:★又老又窮，各行各業蕭條的不得了，打完卡我們馬上去救經濟☆
-getOffWorkText:★人生就像騎腳踏車，想保持平衡就得往前走，想出的了公司就得先打卡☆
-getOffWorkText:★不求與人相比，但求超越自己，今天是否比昨天準時打卡☆
-getOffWorkText:★這個世界不是因為你能做什麼，而是你該做什麼。你該打卡了☆
-getOffWorkText:★在哪裡跌倒，就在哪裡躺下來，躺下前先打個卡☆
-getOffWorkText:★別害怕別人怎麼看你，因為沒有人在看你，鼓起勇氣打完卡，還是沒有人再看你☆
-getOffWorkText:★好想賣掉房子去環遊世界，但房東不准，好想馬上回家，但打卡機不准☆
+getOffWorkText:https://www.youtube.com/watch?v=Kozn0q6tf4k
