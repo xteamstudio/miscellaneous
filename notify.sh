@@ -5,13 +5,10 @@ curl https://raw.githubusercontent.com/xteamstudio/miscellaneous/master/xteam-no
 filename='xteam-notify.txt'
 exec < $filename
 
-goToWorkTitleArr=()
-goToWorkTextArr=()
-getOffWorkTitleArr=()
-getOffWorkTextArr=()
+IFS=''
 while read line
 do
-#    echo $line
+    # echo $line
     if  [[ $line == goToWorkTitle:* ]] ;then
         goToWorkTitleArr+=(${line:14})
     fi
@@ -26,10 +23,15 @@ do
     fi
 done
 
-goToWorkTitle=${goToWorkTitleArr[$[$RANDOM % ${#goToWorkTitleArr[@]}]]}
-goToWorkText=${goToWorkTextArr[$[$RANDOM % ${#goToWorkTextArr[@]}]]}
-getOffWorkTitle=${getOffWorkTitleArr[$[$RANDOM % ${#getOffWorkTitleArr[@]}]]}
-getOffWorkText=${getOffWorkTextArr[$[$RANDOM % ${#getOffWorkTextArr[@]}]]}
+goToWorkTitle="${goToWorkTitleArr[$[$RANDOM % ${#goToWorkTitleArr[@]}]]}"
+goToWorkText="${goToWorkTextArr[$[$RANDOM % ${#goToWorkTextArr[@]}]]}"
+getOffWorkTitle="${getOffWorkTitleArr[$[$RANDOM % ${#getOffWorkTitleArr[@]}]]}"
+getOffWorkText="${getOffWorkTextArr[$[$RANDOM % ${#getOffWorkTextArr[@]}]]}"
+
+#echo $goToWorkTitle
+#echo $goToWorkText
+#echo $getOffWorkTitle
+#echo $getOffWorkText
 
 mode=$1
 if [ "$mode" == 1 ]; then
