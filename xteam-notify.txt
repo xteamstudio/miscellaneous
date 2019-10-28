@@ -1,5 +1,4 @@
-goToWorkTitle:超夯XTEAM STUDIO打卡景點 https://i.ytimg.com/vi/un5NnEKXXAo/maxresdefault.jpg
-goToWorkText:★每天只看目標，別老想障礙，打卡完目標就更近一步☆
+goToWorkTitle:超夯XTEAM STUDIO打卡景點 https://i.pinimg.com/originals/88/c6/ea/88c6ea05d303e549dd3071a6a29e8562.jpg
 goToWorkText:★寧願辛苦一陣子，不要辛苦一輩子。上班來這打卡就對了Σ>―(〃°ω°〃)♡→☆
 goToWorkText:★嘗試過。失敗過。 沒關係。再試一次。又失敗。比失敗進步一些。然後卡就打完了!☆
 goToWorkText:★打完上班卡擁有一碗滷肉飯與一瓶礦泉水的信心☆
