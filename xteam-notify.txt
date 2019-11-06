@@ -1,4 +1,4 @@
-goToWorkTitle:超夯XTEAM STUDIO打卡景點 https://images.chinatimes.com/newsphoto/2018-11-06/900/20181106001392.png
+goToWorkTitle:超夯XTEAM STUDIO打卡景點 http://link.photo.pchome.com.tw/s08/0933420321/8/126054317210/
 goToWorkText:★寧願辛苦一陣子，不要辛苦一輩子。上班來這打卡就對了Σ>―(〃°ω°〃)♡→☆
 goToWorkText:★嘗試過。失敗過。 沒關係。再試一次。又失敗。比失敗進步一些。然後卡就打完了!☆
 goToWorkText:★打完上班卡擁有一碗滷肉飯與一瓶礦泉水的信心☆
@@ -10,7 +10,7 @@ goToWorkText:★你不一定要很厲害，才能開始；你要開始，才能�
 goToWorkText:★要成功，先發瘋，頭腦簡單向前衝，打卡只要一分鐘，打完人生就成功☆
 goToWorkText:★積極向上的心態，是成功者的最基本要素。卡還沒打前，你在跟我講什麼☆
 goToWorkText:★生活總會給你另一個機會，這個機會叫今天。今天的開始，老梗了就是要打卡☆
-getOffWorkTitle:打卡拼經濟，大錢等著您 https://img.ltn.com.tw/2019/new/jan/21/images/bigPic/600_88.jpg
+getOffWorkTitle:打卡拼經濟，大錢等著您 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XcC3YRobn6iwSx58umiz7zMiMgo_vz_x_lx-jTWGapSdIFDcw&s
 getOffWorkText:★下班出得去，打卡進得來，荷包發大財☆
 getOffWorkText:★立足台灣、胸懷大陸、放眼世界、征服宇宙、打卡救人類☆
 getOffWorkText:★禿子跟著月亮走，打卡回家不迷路☆
