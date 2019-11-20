@@ -1,10 +1,14 @@
-#!/bin/bash
+!/bin/bash
 
 curl https://raw.githubusercontent.com/xteamstudio/miscellaneous/master/xteam-notify.txt > xteam-notify.txt
 
 filename='xteam-notify.txt'
 exec < $filename
 
+goToWorkTitleArr=()
+goToWorkTextArr=()
+getOffWorkTitleArr=()
+getOffWorkTextArr=()
 IFS=''
 while read line
 do
@@ -35,7 +39,7 @@ getOffWorkText="${getOffWorkTextArr[$[$RANDOM % ${#getOffWorkTextArr[@]}]]}"
 
 mode=$1
 if [ "$mode" == 1 ]; then
-    curl -d '{"text":"'"$goToWorkTitle"'","attachments":[{"title": "'"$goToWorkText"'"}]}' -H "Content-Type: application/json" -X POST https://hooks.slack.com/services/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
+    curl -d '{"text":"'"$goToWorkTitle"'","attachments":[{"title": "'"$goToWorkText"'"}]}' -H "Content-Type: application/json" -X POST https://hooks.slack.com/services/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
 elif [ "$mode" == 2 ]; then
-    curl -d '{"text":"'"$getOffWorkTitle"'","attachments":[{"title": "'"$getOffWorkText"'"}]}' -H "Content-Type: application/json" -X POST https://hooks.slack.com/services/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
+    curl -d '{"text":"'"$getOffWorkTitle"'","attachments":[{"title": "'"$getOffWorkText"'"}]}' -H "Content-Type: application/json" -X POST https://hooks.slack.com/services/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
 fi
